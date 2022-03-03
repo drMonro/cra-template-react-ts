@@ -1,6 +1,6 @@
 {
-  "name": "@drmonro/cra-template-react-ts",
-  "version": "1.0.3",
+  "name": "cra-template-ts-react",
+  "version": "1.0.4",
   "keywords": [
     "react",
     "create-react-app",
