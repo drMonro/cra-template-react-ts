@@ -1,5 +1,5 @@
 {
-  "name": "@drmonro/cra-template-react-ts",
+  "name": "cra-template-ts-react",
   "version": "1.0.3",
   "keywords": [
     "react",
@@ -19,10 +19,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drmonro/cra-template-react-ts.git"
+    "url": "git+https://github.com/drmonro/cra-template-ts-react.git"
   },
   "bugs": {
-    "url": "https://github.com/drmonro/cra-template-react-ts/issues"
+    "url": "https://github.com/drmonro/cra-template-ts-react/issues"
   },
-  "homepage": "https://github.com/drmonro/cra-template-react-ts#readme"
+  "homepage": "https://github.com/drmonro/cra-template-ts-react#readme"
 }
